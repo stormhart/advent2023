@@ -64,8 +64,6 @@ Run the HASH algorithm on each step in the initialization sequence. What is the 
 
 Your puzzle answer was 506437.
 
-The first half of this puzzle is complete! It provides one gold star: *
-
 --- Part Two ---
 You convince the reindeer to bring you the page; the page confirms that your HASH algorithm is working.
 
@@ -151,3 +149,5 @@ pc: 4 (box 3) * 3 (third slot) * 6 (focal length) = 72
 So, the above example ends up with a total focusing power of 145.
 
 With the help of an over-enthusiastic reindeer in a hard hat, follow the initialization sequence. What is the focusing power of the resulting lens configuration?
+
+Your puzzle answer was 288521.
